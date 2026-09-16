@@ -8,5 +8,5 @@
 - https://redhat.com
 - https://endeavouros.com
 ## todo
-[ ] musim si dopsat vsechny weby
-[X] splnen ukol cislo 1
+- [ ] musim si dopsat vsechny weby
+- [X] splnen ukol cislo 1
