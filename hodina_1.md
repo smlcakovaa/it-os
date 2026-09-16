@@ -9,4 +9,4 @@
 - https://endeavouros.com
 ## todo
 - [ ] musim si dopsat vsechny weby
-- [X] splnen ukol cislo 1
+- [X] ~~splnen ukol cislo 1~~
